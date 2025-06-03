@@ -1,4 +1,4 @@
-# 💫 About Me:
+## 💫 About Me:
 👋 Hi there, I'm Rithik!<br><br>I'm a passionate Computer Science Engineering student , with a strong interest in full-stack web development. I enjoy building interactive and efficient web applications using modern technologies.<br><br>
 
 
