@@ -1,5 +1,5 @@
 ## 💫 About Me:
-#👋 Hi there, I'm Rithik!<br><br>I'm a passionate Computer Science Engineering student , with a strong interest in full-stack web development. I enjoy building interactive and efficient web applications using modern technologies.<br><br>
+👋 Hi there, I'm Rithik!<br><br>I'm a passionate Computer Science Engineering student , with a strong interest in full-stack web development. I enjoy building interactive and efficient web applications using modern technologies.<br><br>
 
 
 <br>🧩 <strong>What I'm Working On:</strong><br><br>- Expanding my skills in backend development to become a full-stack developer<br><br>- Building real-world projects to sharpen my coding and design skills<br><br>- Contributing to open-source projects and collaborating with other developers<br><br><br>
